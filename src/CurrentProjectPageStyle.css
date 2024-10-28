@@ -1,0 +1,11 @@
+p{
+    line-height:200%;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+.header{
+    background-color: darkcyan;
+}
