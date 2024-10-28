@@ -1,3 +1,7 @@
+body{
+    background-color:rgba(235, 213, 198, 0.5);
+}
+
 p{
     line-height:200%;
 }
