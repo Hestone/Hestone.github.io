@@ -1,3 +1,13 @@
 body{
     background-color:azure
 }
+
+a{
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+    color:#333;
+}
+a:hover{
+    color: #aaa1a1;
+}
