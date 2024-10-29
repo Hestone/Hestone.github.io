@@ -42,6 +42,10 @@ p{
     clear: both;
 }
 
+#headerHeading{
+    display: inline;
+}
+
 a{
     margin-left: 16px;
     text-decoration: none;
