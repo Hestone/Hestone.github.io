@@ -1,6 +1,6 @@
 *{
     font-family:Arial, Helvetica, sans-serif;
-    padding: 3px;
+    padding:5px;
 }
 
 #nav{
@@ -14,10 +14,24 @@
 }
 
 body{
-    background-image: linear-gradient(to left, #2E2D2D, #666666);
+    background-image: linear-gradient(to left, #484646, #898888);
+    padding:3px;
 }
 
-a{
+#nav a{
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+    color:#333;
+    border: 2px solid black;
+    border-radius:5px;
+    background-color:white;
+    color:black;
+    cursor: pointer;
+    padding: 5px 10px;    
+}
+
+.linksocialmedia a{
     display:contents;
     margin-left: 16px;
     text-decoration: none;

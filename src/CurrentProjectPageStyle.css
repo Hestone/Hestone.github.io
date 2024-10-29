@@ -15,6 +15,7 @@ p{
 *{
     font-family:Arial, Helvetica, sans-serif;
     box-sizing: border-box;
+    padding:5px;
 }
 
 a{
