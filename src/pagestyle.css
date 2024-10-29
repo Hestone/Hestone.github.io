@@ -2,6 +2,21 @@ body{
     background-color:rgba(235, 213, 198, 0.5);
 }
 
+div{
+    margin-bottom: 2em;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    align-items:center;
+}
+  
+li {
+    display: inline;
+}
+
 p{
     line-height:200%;
 }
@@ -28,6 +43,12 @@ a{
     text-decoration: none;
     padding: 6px;
     color:#333;
+    border: 2px solid black;
+    border-radius:5px;
+    background-color:white;
+    color:black;
+    cursor: pointer;
+    padding: 5px 10px;
 }
 a:hover{
     color: #aaa1a1;
