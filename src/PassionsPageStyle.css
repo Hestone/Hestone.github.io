@@ -1,0 +1,20 @@
+body{
+    background-color: rgba(128, 128, 128, 0.3);
+}
+.Music{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    text-align:center;
+}
+
+a{
+    margin-left: 16px;
+    text-decoration: none;
+    padding: 6px;
+    color:#333;
+}
+a:hover{
+    color: #aaa1a1;
+}

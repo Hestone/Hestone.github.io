@@ -1,12 +1,5 @@
 body{
-    background-color: rgba(60, 131, 131, 0.5);
-}
-p{
-    line-height:200%;
-}
-
-*{
-    box-sizing: border-box;
+    background-color:azure
 }
 
 a{
