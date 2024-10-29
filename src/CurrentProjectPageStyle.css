@@ -1,6 +1,7 @@
 body{
-    background-color: rgba(60, 131, 131, 0.5);
+    background-image: linear-gradient(to left, #2E2D2D , #666666);
 }
+
 p{
     line-height:200%;
 }
@@ -14,7 +15,7 @@ a{
     margin-left: 16px;
     text-decoration: none;
     padding: 6px;
-    color:#333;
+    color:#ffffff;
 }
 a:hover{
     color: #aaa1a1;
