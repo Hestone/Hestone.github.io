@@ -1,3 +1,7 @@
+*{
+    font-family:Arial, Helvetica, sans-serif;
+}
+
 body{
     background-color:rgba(235, 213, 198, 0.5);
 }
