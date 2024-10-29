@@ -3,14 +3,14 @@
 }
 
 body{
-    background-color:azure
+    background-image: linear-gradient(to left, #2E2D2D, #666666);
 }
 
 a{
     margin-left: 16px;
     text-decoration: none;
     padding: 6px;
-    color:#333;
+    color:#ffffff;
 }
 a:hover{
     color: #aaa1a1;
