@@ -3,8 +3,13 @@
 }
 
 body{
-    background-color: rgba(128, 128, 128, 0.3);
+    background-image: linear-gradient(to left, #2E2D2D, #666666);
 }
+
+h2{
+    color:aliceblue;
+}
+
 .Passions{
     display: block;
     margin-left: auto;
@@ -17,7 +22,7 @@ a{
     margin-left: 16px;
     text-decoration: none;
     padding: 6px;
-    color:#333;
+    color:#ffffff;
 }
 a:hover{
     color: #aaa1a1;
