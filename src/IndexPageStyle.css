@@ -1,6 +1,16 @@
 *{
     font-family:Arial, Helvetica, sans-serif;
+    padding: 3px;
+}
+
+#nav{
+    float:right;
     padding:3px;
+}
+
+.linksocialmedia{
+    position: absolute;
+    bottom: 0;
 }
 
 body{
@@ -8,6 +18,7 @@ body{
 }
 
 a{
+    display:contents;
     margin-left: 16px;
     text-decoration: none;
     padding: 6px;
