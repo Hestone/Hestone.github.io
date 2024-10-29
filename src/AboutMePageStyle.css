@@ -3,6 +3,11 @@
     padding: 3px;
 }
 
+#nav{
+    float:right;
+    padding:3px;
+}
+
 body{
     background-image: linear-gradient(to left, #2E2D2D, #666666);
 }
