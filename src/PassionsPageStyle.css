@@ -22,7 +22,13 @@ a{
     margin-left: 16px;
     text-decoration: none;
     padding: 6px;
-    color:#ffffff;
+    color:#333;
+    border: 2px solid black;
+    border-radius:5px;
+    background-color:white;
+    color:black;
+    cursor: pointer;
+    padding: 5px 10px;
 }
 a:hover{
     color: #aaa1a1;
