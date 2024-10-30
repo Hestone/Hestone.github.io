@@ -3,6 +3,11 @@
     padding:5px;
 }
 
+.content{
+    padding: 10% 0;
+    text-align: center;
+}
+
 #nav{
     float:right;
     padding:3px;
@@ -44,6 +49,26 @@ body{
     cursor: pointer;
     padding: 5px 10px;
 }
+#nav a:hover{
+    color: #aaa1a1;
+}
+
 a:hover{
     color: #aaa1a1;
+}
+
+.content{
+    animation: transitionIn 1s;
+    transition-timing-function:ease-in;
+}
+
+@keyframes transitionIn{
+    from{
+        opacity: 0;
+        transform:scale(0);
+    }
+
+    to{
+        opacity: 1;
+    }
 }
