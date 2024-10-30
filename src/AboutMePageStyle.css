@@ -10,6 +10,7 @@
 
 body{
     background-image: linear-gradient(to left, #2E2D2D, #666666);
+    padding: 3px;
 }
 
 div{
@@ -42,10 +43,14 @@ p{
     height: 970px;
 }
   
-.row:after {
+.content:after {
     content: "";
     display: table;
     clear: both;
+}
+
+.content{
+    position:relative;
 }
 
 a{
@@ -62,4 +67,9 @@ a{
 }
 a:hover{
     color: #aaa1a1;
+}
+
+.footer{
+    display: flex;
+    align-items: end;
 }

@@ -33,3 +33,13 @@ a{
 a:hover{
     color: #aaa1a1;
 }
+
+.content{
+    position:relative;
+}
+
+.footer{
+    margin: 10px;
+    position:absolute;
+    bottom:10px;
+}
