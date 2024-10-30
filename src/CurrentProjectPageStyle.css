@@ -1,5 +1,11 @@
 body{
     background-image: linear-gradient(to left, #2E2D2D , #666666);
+    padding:3px;
+}
+
+#nav{
+    float:right;
+    padding:3px;
 }
 
 p{
@@ -9,6 +15,7 @@ p{
 *{
     font-family:Arial, Helvetica, sans-serif;
     box-sizing: border-box;
+    padding:5px;
 }
 
 a{
@@ -25,4 +32,14 @@ a{
 }
 a:hover{
     color: #aaa1a1;
+}
+
+.content{
+    position:relative;
+}
+
+.footer{
+    margin: 10px;
+    position:absolute;
+    bottom:10px;
 }
