@@ -19,3 +19,5 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Reason for choosing this license: using the MIT License allows other software developers to perform any actions related to the files as long as they have a copy of the repository. Using the MIT License also protects the owner of the repository from any external factors or harms that is not related to the owner. Essentially, the owner is not responsible for any further actions made by other users when modifying the files.
